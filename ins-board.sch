@@ -40,7 +40,7 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "INS BOARD"
+Title "rocket monitor"
 Date "26 feb 2014"
 Rev "REV A"
 Comp ""
