@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name _connectors)(type Legacy)(uri ${KIPRJMOD}/kicad-lib/footprints/_connectors.mod)(options "")(descr ""))
+  (lib (name _div)(type Legacy)(uri ${KIPRJMOD}/kicad-lib/footprints/_div.mod)(options "")(descr ""))
+  (lib (name _lqfp)(type Legacy)(uri ${KIPRJMOD}/kicad-lib/footprints/_lqfp.mod)(options "")(descr ""))
+  (lib (name _mech)(type Legacy)(uri ${KIPRJMOD}/kicad-lib/footprints/_mech.mod)(options "")(descr ""))
+  (lib (name _sensors)(type Legacy)(uri ${KIPRJMOD}/kicad-lib/footprints/_sensors.mod)(options "")(descr ""))
+  (lib (name _std)(type Legacy)(uri ${KIPRJMOD}/kicad-lib/footprints/_std.mod)(options "")(descr ""))
+)
