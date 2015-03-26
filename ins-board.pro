@@ -1,7 +1,5 @@
-update=Son 16 Feb 2014 01:57:24 UTC
-last_client=pcbnew
-[general]
-version=1
+update=Don 26 Mär 2015 22:44:39 CET
+last_client=kicad
 [cvpcb]
 version=1
 NetIExt=net
@@ -94,3 +92,5 @@ LibName19=_lqfp
 LibName20=_div
 LibName21=_connectors
 LibName22=_mech
+[general]
+version=1
