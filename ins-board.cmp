@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-03-23 BZR 5533)-product   date = Don 26 Mär 2015 22:44:33 CET
+Cmp-Mod V01 Created by Cvpcb (2015-03-28 BZR 5545)-product   date = Sam 28 Mär 2015 15:10:37 CET
 
 BeginCmp
 TimeStamp = /512952F6;
@@ -288,6 +288,13 @@ IdModule  = _std:_0603-W;
 EndCmp
 
 BeginCmp
+TimeStamp = /55174891;
+Reference = R14;
+ValeurCmp = 10k;
+IdModule  = _std:_0603-W;
+EndCmp
+
+BeginCmp
 TimeStamp = /55131C3C;
 Reference = U1;
 ValeurCmp = STM32F042C6T6;
@@ -316,10 +323,10 @@ IdModule  = _sensors:_MPU-60X0;
 EndCmp
 
 BeginCmp
-TimeStamp = /55134549;
+TimeStamp = /5516AE2F;
 Reference = U5;
-ValeurCmp = MS5611-01BA;
-IdModule  = _sensors:_MS5611-01BA;
+ValeurCmp = LPS331AP;
+IdModule  = _sensors:_LPS331AP;
 EndCmp
 
 BeginCmp
