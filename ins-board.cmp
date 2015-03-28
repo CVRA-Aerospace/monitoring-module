@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-03-28 BZR 5545)-product   date = Sam 28 Mär 2015 15:10:37 CET
+Cmp-Mod V01 Created by Cvpcb (2015-03-28 BZR 5545)-product   date = Sam 28 Mär 2015 19:30:43 CET
 
 BeginCmp
 TimeStamp = /512952F6;
@@ -158,7 +158,7 @@ BeginCmp
 TimeStamp = /51294CD8;
 Reference = CONN2;
 ValeurCmp = MICRO_SD;
-IdModule  = _div:_Molex-microSD-502570-0893;
+IdModule  = _div:_Molex-microSD-WM6701;
 EndCmp
 
 BeginCmp
