@@ -40,10 +40,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "rocket monitor"
-Date "26 feb 2014"
+Title "Rocket monitoring module"
+Date "27 Mar 2015"
 Rev "REV A"
-Comp ""
+Comp "CVRA Aerospace"
 Comment1 ""
 Comment2 ""
 Comment3 ""
